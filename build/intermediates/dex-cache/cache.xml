@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Princess/.android/build-cache/2d17ca454832a9bf2e05d70ee480d8de8ccc5f81/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/Princess/Desktop/Maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_14d857b7f970de3e321f0dd3d0ad9efaf505df9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Princess/Desktop/Maps/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="621ee9c79eb830061f07c1a16f5e9f2f295e3086">
+        <dex dex="/Users/Princess/Desktop/Maps/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4a1779b4cd1654875bf2f7a61061535256db1998/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Princess/Desktop/Maps/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Princess/Desktop/Maps/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f0689832660948d907a5c36eb132a541a5f6b0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Princess/.android/build-cache/ae20e228776e2d4c9ed16efb4fc1d168ebcdb95d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/Princess/Desktop/Maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c70b47ce5b4b4ce394195bd8150c02396aa65b5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Princess/.android/build-cache/eaa5a46baa9ec8f02b97ff934a1f4e4d98dcdea3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/Princess/Desktop/Maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91ce845538abeea4509c3dd3e25e98331c471635/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Princess/.android/build-cache/e64d4486ee5dd5f5bced8326513894d1299dfd8b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/Princess/Desktop/Maps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_66513433ecb9f2dfc7325d4735be3e5ad7e96fbb/classes.dex" />
+    </item>
+
+</items>
